@@ -1,2 +1,1 @@
-# Operating-Systems-xv6
-An introduction course which is intended to the implementation of modern operating system. It invovles implementing pieces of the Linux Kernel, as well as additional coding projects intended to furture your understanding.
+This lab is October 9th by midnight. Submit a single gzipped tar file to TEACH. Submitting your solution before October 9th will earn you a 10% bonus. If your submission is not a gzipped tar file, I will not grade your assignment. you code must run on the EECS Linux server os2. If it does not run on os2, it will be graded as a zero.
