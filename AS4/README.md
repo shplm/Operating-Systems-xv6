@@ -1,0 +1,3 @@
+This lab is October 25th by midnight. Submit a single gzipped tar file to TEACH. Submitting your solutions before October 25th will earn you a 10% bonus. If you don’t remember how to create a gzipped tar file, you need to learn before you submit this assignment. If your submission is not a gzipped tar file, I will not grade your assignment.
+
+There are many (MANY) parts to this assignment. Each one is fairly small. Just follow this document like it is a script or recipe and work through all the parts. I recommend you use #ifdef sections in your code to make it easier to track where you make changes to the xv6 source code.
