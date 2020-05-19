@@ -1,5 +1,13 @@
-This lab consists of one part. This lab is October 16th by midnight. Submit a single gzipped tar file to TEACH. The single gzipped tar file should contain the all source files (C source [*.c and *.h] and the Makefile). Submitting your solutions before October 16th will earn you a 10% bonus. You must have a Makefile to build this assignment.
+An introduction course to the implementation of a modern operating system. This will involve implementing pieces of the Linux Kernel, as well as additional coding projects intended to furture understanding.
 
-This should be a pretty simple lab to complete. Look back at the code we did in class for the stat command we put in xv6.
+Topics covered will include:
 
-You really want to do “man 2 stat” and read that man entry closely.
+    Concurrency
+    I/O Scheduling
+    CPU Scheduling
+    Deadlock
+    Virtual Memory
+    Memory protection
+    File systems
+    
+It is assumed that a basic C knowledge is had by all students in the class. This includes syntax, flow control constructs, basic function usage, and pointers. Basic UNIX/Linux knowledge is also assumed. 
